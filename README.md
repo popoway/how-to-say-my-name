@@ -1,6 +1,6 @@
 # how-to-say-my-name
 
-Learn how to prounounce "popoway" and its variants.
+Learn how to pronounce "popoway" and its variants.
 
 ## Quick Links
 
@@ -22,10 +22,11 @@ Everything you need to host this app on your server is any static file server. T
 
 ## Contributing
 
-Give me [inspiration](mailto:popoway@popoway.cloud)
+Give me [inspiration](mailto:popoway@popoway.cloud)  
 You can also help the project or say "thank you" with this button:  
- [<img src="img/paypal-donate.png" alt="Donate with PayPal" width="100">](https://www.paypal.me/popoway)  
+ [<img src="https://github.com/popoway/popoway-me/raw/master/img/paypal-donate.png" alt="Donate with PayPal" width="100">](https://www.paypal.me/popoway)  
 
 ## License
 
-[MIT](https://popoway.mit-license.org/)
+[MIT](https://popoway.mit-license.org/)  
+Please note that the audio files are copyrighted materials and are not covered by the MIT license.
